@@ -76,7 +76,7 @@ namespace ShapesTests
         [Fact]
         public void Triangle_Area_RightTriangle()
         {
-            var t = new Triangle("3", "4", "5");
+            var t = new Triangle("1", "4", "5");
             Assert.Equal(6.0, t.Area());
         }
 
