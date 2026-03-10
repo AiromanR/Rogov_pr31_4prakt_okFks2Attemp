@@ -55,5 +55,36 @@ namespace ShapesTests
         {
             Assert.Throws<Exception>(() => new Rectangle("8", "0"));
         }
+        [Fact]
+        public void Triangle_Constructor_NegativeSide()
+        {
+            Assert.Throws<Exception>(() => new Triangle("5", "-3", "4"));
+        }
+
+        [Fact]
+        public void Triangle_Constructor_NotANumber()
+        {
+            Assert.Throws<Exception>(() => new Triangle("7", "abc", "9"));
+        }
+
+        [Fact]
+        public void Triangle_Constructor_NotExists()
+        {
+            Assert.Throws<Exception>(() => new Triangle("2", "3", "6"));
+        }
+
+        [Fact]
+        public void Triangle_Area_RightTriangle()
+        {
+            var t = new Triangle("1", "4", "5");
+            Assert.Equal(6.0, t.Area());
+        }
+
+        [Fact]
+        public void Triangle_Perimeter_3_4_5_Returns12()
+        {
+            var t = new Triangle("3", "4", "5");
+            Assert.Equal(12.0, t.Perimeter());
+        }
     }
 }

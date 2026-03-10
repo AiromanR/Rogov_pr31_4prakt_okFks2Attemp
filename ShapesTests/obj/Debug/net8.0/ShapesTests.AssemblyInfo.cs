@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapesTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cddbd09810b700e8b92613946fe252510bfc8edf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a10e5a4830bf07184a340146d9b47a64742f2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapesTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapesTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
