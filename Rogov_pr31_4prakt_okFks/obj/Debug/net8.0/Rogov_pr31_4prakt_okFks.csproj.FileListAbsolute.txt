@@ -1,0 +1,11 @@
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\bin\Debug\net8.0\Rogov_pr31_4prakt_okFks.deps.json
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\bin\Debug\net8.0\Rogov_pr31_4prakt_okFks.dll
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\bin\Debug\net8.0\Rogov_pr31_4prakt_okFks.pdb
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.AssemblyInfoInputs.cache
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.AssemblyInfo.cs
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.csproj.CoreCompileInputs.cache
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.dll
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\refint\Rogov_pr31_4prakt_okFks.dll
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\Rogov_pr31_4prakt_okFks.pdb
+C:\MyProjects\GARIEV\Rogov_pr31_4prakt_okFks\Rogov_pr31_4prakt_okFks\obj\Debug\net8.0\ref\Rogov_pr31_4prakt_okFks.dll
