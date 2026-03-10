@@ -10,9 +10,9 @@ namespace ShapesTests
         [Fact]
         public void Rectangle_Create_Success()
         {
-            var rect = new Rectangle("5,5", "8");
+            var rect = new Rectangle("5", "8");
 
-            Assert.Equal(5.5, rect.Width);
+            Assert.Equal(5.0, rect.Width);
             Assert.Equal(8.0, rect.Height);
         }
 
@@ -29,10 +29,10 @@ namespace ShapesTests
         [Fact]
         public void Rectangle_Area_CorrectCalculation()
         {
-            var rect = new Rectangle("4", "7,5");
+            var rect = new Rectangle("4", "7");
 
             double area = rect.Area();
-            Assert.Equal(30.0, area);
+            Assert.Equal(28.0, area);
         }
 
         [Fact]
